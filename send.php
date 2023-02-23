@@ -14,9 +14,6 @@ function enviar_email(){
             $headers .= 'Content-type: text/html; charset=iso-8859-1' . "\r\n"; //
 			
              if(mail($dest,$asunto,$cuerpo,$headers)){
-				 foreach($_POST AS $key => $value) {
-                    $_POST[$key] = mysql_real_escape_string($value);
-                }
                 
                 $_POST['name'] = '';
                 $_POST['email'] = '';
