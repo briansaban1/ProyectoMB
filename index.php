@@ -48,7 +48,7 @@ if(isset($_POST['boton'])){
 
     <link href="https://fonts.googleapis.com/css?family=Raleway:100,300,400,500,700,900" rel="stylesheet">
 
-    <link rel="icon" href="img/ico-logo.png" sizes="any" type="image/png">
+    <link rel="icon" href="img/icono/ico.png" sizes="any" type="image/png">
 
     <title>Proyecto MB</title>
 
@@ -374,11 +374,11 @@ if(isset($_POST['boton'])){
                                         <div class="item animate" data-animate="fadeInUp">
                                             <div class="testimonial-item">
                                                 <div class="client-row">
-                                                    <img src="img/proyectos/1.png" class="rounded-circle" alt="profile 1">
+                                                    <img src="img/opiniones/at-estudio.png" class="rounded-circle" alt="profile 1">
                                                 </div>
                                                 <div class="testimonial-content">
-                                                    <h4>Nombre proyecto</h4>
-                                                    <p>"Nam iaculis, leo nec facilisis sollicitudin, dui massa tempus odio, vitae malesuada ante elit vitae eros."</p>
+                                                    <h4>AT ESTUDIO</h4>
+                                                    <p>"Super profesional. Me hizo el diseño de mi estudio y no pudo haber sido mejor. Una genia y con un gusto increible para hacer interiores! También le diseñó la cocina a mi hermano y quedó hermosa, muy recomendable su trabajo."</p>
                                                    
                                                 </div>                                           
                                             </div>
