@@ -1,3 +1,16 @@
+@font-face {
+  font-family: Raleway;
+  src: url(../fonts/Raleway-VariableFont_wght.ttf);
+  font-style: normal;
+}
+
+@font-face {
+	font-family: Satisfy;
+	src: url(../fonts/Satisfy/Satisfy-Regular.ttf);
+	font-style: normal;
+  }
+
+
 html,
 body {
   -webkit-font-smoothing: antialiased;
@@ -202,7 +215,7 @@ video {
   text-align: justify;
 }
 .text-sobre-nosotros-titulo{
-  font-family: cursive; 
+  font-family: Satisfy; 
   font-size: 80px; 
   color: black; 
   margin-left: 10px; 
@@ -212,7 +225,7 @@ video {
 
 
 .text-poder-ayudar-titulo{
-  font-family: cursive; 
+  font-family: Satisfy; 
   font-size: 70px; 
   color: black; 
   align-self:center;
@@ -228,7 +241,7 @@ video {
 }
 
 .text-clientes{
-  font-family: cursive; 
+  font-family: Satisfy; 
   font-size: 70px; 
   color: black; 
   align-self:right;

@@ -1,3 +1,16 @@
+@font-face {
+	font-family: Raleway;
+	src: url(../fonts/Raleway-VariableFont_wght.ttf);
+	font-style: normal;
+  }
+  
+  @font-face {
+	font-family: Satisfy;
+	src: url(../fonts/Satisfy/Satisfy-Regular.ttf);
+	font-style: normal;
+  }
+  
+
 @media only screen and (min-width: 768px) {
 	.nav-box {
 		display:block !important;
@@ -295,7 +308,7 @@
 
 @media only screen and (max-width: 888px) {
 	.text-poder-ayudar-titulo{
-		font-family: cursive; 
+		font-family: Satisfy; 
 		font-size: 70px; 
 		color: black; 
 		align-self:center;
@@ -402,7 +415,7 @@
 	}
 
 	.text-clientes{
-		font-family: cursive; 
+		font-family: Satisfy; 
 		font-size: 40px; 
 		color: black; 
 		align-self:right;
@@ -410,7 +423,7 @@
 	  }
 
 	  .text-poder-ayudar-titulo{
-		font-family: cursive; 
+		font-family: Satisfy; 
 		font-size: 40px; 
 		color: black; 
 		align-self:center;
@@ -442,7 +455,7 @@
 	}
 
 	.text-sobre-nosotros-titulo{
-		font-family: cursive; 
+		font-family: Satisfy; 
 		font-size: 40px; 
 		color: black; 
 		margin-left: 10px; 

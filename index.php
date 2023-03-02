@@ -46,8 +46,6 @@ if(isset($_POST['boton'])){
     <meta property="og:type" content="website" />
     <meta name="description" content="Somos un equipo de arquitectos dedicado a crear espacios únicos que sean funcionales y estéticamente atractivos."/>
 
-    <link href="https://fonts.googleapis.com/css?family=Raleway:100,300,400,500,700,900" rel="stylesheet">
-
     <link rel="icon" href="img/icono/ico.png" sizes="any" type="image/png">
 
     <title>Proyecto MB</title>
