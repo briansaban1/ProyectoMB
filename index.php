@@ -381,28 +381,7 @@ if(isset($_POST['boton'])){
                                                 </div>                                           
                                             </div>
                                         </div>
-                                        <div class="item animate" data-animate="fadeInUp">
-                                            <div class="testimonial-item">
-                                                <div class="client-row">
-                                                    <img src="img/proyectos/2.png" class="rounded-circle" alt="profile 2">
-                                                </div>
-                                                <div class="testimonial-content">
-                                                    <h4>Nombre proyecto</h4>
-                                                    <p>"Nam iaculis, leo nec facilisis sollicitudin, dui massa tempus odio, vitae malesuada ante elit vitae eros."</p>
-                                                </div>                                           
-                                            </div>
-                                        </div>
-                                        <div class="item animate" data-animate="fadeInUp">
-                                            <div class="testimonial-item">
-                                                <div class="client-row">
-                                                    <img src="img/proyectos/3.png" class="rounded-circle" alt="profile 3">
-                                                </div>
-                                                <div class="testimonial-content">
-                                                    <h4>Nombre proyecto</h4>
-                                                    <p>"Nam iaculis, leo nec facilisis sollicitudin, dui massa tempus odio, vitae malesuada ante elit vitae eros."</p>
-                                                </div>                                               
-                                            </div>
-                                        </div>
+                                        
                                     </div>
                                 </div>
                             </div>
